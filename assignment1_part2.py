@@ -30,6 +30,5 @@ class Book(object):
 
 B1 = Book('John Steinbeck', 'Of Mice and Men')
 B2 = Book('Harper Lee', 'To Kill A Mockingbird')
-
 B1.display()
 B2.display()
